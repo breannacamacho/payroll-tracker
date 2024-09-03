@@ -24,7 +24,7 @@
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/payroll-tracker.git
+    git clone https://github.com/breannacamacho/payroll-tracker.git
     ```
 
 2. Navigate to the project directory:
